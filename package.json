@@ -1,5 +1,7 @@
 {
-  "name": "my-new-project",
+  "name": "foloapp",
+  "description": "FoloApp Contact Manager",
+  "version": "0.1.0",
   "main": "node_modules/expo/AppEntry.js",
   "private": true,
   "scripts": {
